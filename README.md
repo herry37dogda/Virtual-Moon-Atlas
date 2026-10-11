@@ -215,4 +215,4 @@ Virtual Moon Atlas is offered as a full free version, providing all features and
 Embark on your lunar journey today! Download Virtual Moon Atlas and explore the Moon's mysteries with this powerful tool. Don't miss out on this complete software experience!
 
 ---
-**Last updated:** 2026-10-11 08:29:32 UTC
+**Last updated:** 2026-10-11 15:26:38 UTC
